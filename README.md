@@ -1,4 +1,4 @@
-![image](https://github.com/Les1ie/HIF/assets/77771959/462bf947-f456-4bfb-9abc-7ab7f54adf22)# HIF
+# HIF
 Heterogeneous GNN Driven Information Prediction Framework
 
 ## Description
